@@ -2,6 +2,10 @@
 
 A modern React frontend for the Health Information System, built with Vite, TypeScript, and TailwindCSS.
 
+## Dashboard Preview
+
+![Dashboard Preview](./dashboard.png)
+
 ## Features
 
 - Dashboard with quick access to key functions
@@ -79,4 +83,4 @@ The project uses TailwindCSS for styling. The configuration can be found in `tai
 
 ## Forms
 
-Forms are built using Formik with Yup validation. See the `Form` component for the reusable form structure. 
+Forms are built using Formik with Yup validation. See the `Form` component for the reusable form structure.
